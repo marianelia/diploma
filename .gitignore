@@ -6,6 +6,23 @@ __pycache__/
 # C extensions
 *.so
 
+#project_build
+*_build/
+
+#datagen
+datagen/
+
+#Qt
+build-*/
+*.pro.user
+
+#cmake-files
+CMakeLists.txt
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
 # Distribution / packaging
 .Python
 build/

@@ -1,0 +1,6 @@
+[submodule "generator"]
+	path = generator
+	url = ./
+[submodule "parser"]
+	path = parser
+	url = ./
