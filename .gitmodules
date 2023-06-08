@@ -1,6 +1,6 @@
 [submodule "generator"]
 	path = generator
-	url = ./
+	url = https://github.com/marianelia/generator
 [submodule "parser"]
 	path = parser
-	url = ./
+	url = https://github.com/marianelia/parser
